@@ -1,10 +1,11 @@
-### Hello everyone! 👋
-<hr>
-**📧 Contact:**
-
+<div align="center">
+<h1>Hi, i'm Trayz! 👋<h1>
+  
+<h2>📧 Contact:</h2>
 - Discord: Trayz#1037
 - Email: trayzkontakt@gmail.com
 
-**🔰 Languages:**
-
-![java] (https://banner2.cleanpng.com/20180715/gzu/kisspng-java-development-kit-software-development-kit-comp-programming-language-icon-5b4b9cb1e74f20.0073080715316819699475.jpg)
+<h2>⚒ Languages and Tools</h2>
+  ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
+- Java
+</div>
