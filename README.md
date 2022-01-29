@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hi, i'm Trayz! 👋</h2>
-<h2>📧 Contact:</h2>
+<h2>📫 Contact:</h2>
 - Discord: Trayz#1037
 - Email: trayzkontakt@gmail.com
 
