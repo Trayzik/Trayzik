@@ -1,5 +1,5 @@
 <div align="center">
-# Hi, i'm Trayz! 👋
+### Hi, i'm Trayz! 👋
 <h2>📧 Contact:</h2>
 - Discord: Trayz#1037
 - Email: trayzkontakt@gmail.com
