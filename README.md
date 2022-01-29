@@ -12,6 +12,6 @@
   <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
 <h2>📈 My Github Statistics</h2>
     <p >
-        <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Trayzik&show_icons=true&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api?username=Trayzik&show_icons=true&theme=tokyonight">
     </p>
 </div>
