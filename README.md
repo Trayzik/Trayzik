@@ -6,7 +6,6 @@
 
 <h2>⚒ Languages and Tools</h2>
   <img src="https://img.shields.io/badge/-Java-black?style=flat&logo=java"><br>
-  <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
   <img src="https://img.shields.io/badge/InteliJ%20idea-black?style=flat&logo=intellij-idea">
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code">
 <h2>📈 My Github Statistics</h2>
