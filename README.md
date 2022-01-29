@@ -1,6 +1,6 @@
 <div align="center">
-<h1>Hey, i'm Trayz! 👋</h2>
-<h2>📫 Contact:</h2>
+<h1>Hey, i'm Trayz! 👋</h1>
+<h2>📫 Contact</h2>
   <b>Discord:</b> Trayz#1037<br>
   <b>Email:</b> trayzkontakt@gmail.com<br>
 
