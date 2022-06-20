@@ -5,13 +5,13 @@
   <b>Email:</b> trayzkontakt@gmail.com<br>
 
 <h2>⚒ Languages and Tools</h2>
-  <img src="https://img.shields.io/badge/Mongodb-black?style=flat&logo=mongodb">
+  <img src="https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb">
   <img src="https://img.shields.io/badge/Redis-black?style=flat&logo=redis">
-  <img src="https://img.shields.io/badge/Mysql-black?style=flat&logo=mysql"><br>
+  <img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql"><br>
   <img src="https://img.shields.io/badge/-Java-black?style=flat&logo=java">
   <img src="https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5">
-  <img src="https://img.shields.io/badge/-Css-black">
-  <img src="https://img.shields.io/badge/-C++-black"><br>
+  <img src="https://img.shields.io/badge/-CSS-black?logo=css3&labelColor=000000&color=000000&logoColor=white&label=%20&style=plastic">
+  <img src="https://img.shields.io/badge/-C++-black?style=flat&logo=c"><br>
   <img src="https://img.shields.io/badge/InteliJ%20idea-black?style=flat&logo=intellij-idea">
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code">
   <img src="https://img.shields.io/badge/-Visual%20Studio-black?style=flat&logo=visual-studio">
