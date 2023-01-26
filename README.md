@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 <h1>Hey, i'm Trayz! 👋</h1>
 <h2>📫 Contact</h2>
   <b>Discord:</b> Trayz#1037<br>
@@ -18,8 +18,5 @@
   <img src="https://img.shields.io/badge/-Visual%20Studio-black?style=flat&logo=visual-studio">
   <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
   <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git">
-<h2>📈 My Github Statistics</h2>
-    <p >
-        <img src="https://github-readme-stats.vercel.app/api?username=Trayzik&show_icons=true&theme=tokyonight">
-    </p>
+
 </div>
